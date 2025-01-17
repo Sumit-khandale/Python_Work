@@ -1,0 +1,13 @@
+**interview questions
+1)What is dict data type in python?
+-->Dict is one of the collective data type in python
+-->Dict is pre-defined class treated as dict data type.
+-->The purpose dict data type to store value in the form of
+   keys,values paire.
+-->Duplicate keys are not allowed.
+-->but values are allowed.
+-->It is ordered.
+-->to store key values in dict we can use curly brecess and key values sepreated by comma.
+-->an object of dict maintain insertion order
+
+-->syntax :- dictobj={key1:values1,key2:values2,....key-n:values-n}
